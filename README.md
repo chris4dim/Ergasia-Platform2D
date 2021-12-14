@@ -22,35 +22,35 @@
 
 ### Χαρακτήρας:
 
-(https://2d-assets.itch.io/red-hat-boy-sprites)
+[character](https://2d-assets.itch.io/red-hat-boy-sprites)
 
 ### Assets:
 
-(https://opengameart.org/content/platform-tiles-0)
+[tiles](https://opengameart.org/content/platform-tiles-0)
 
-(https://opengameart.org/content/2d-game-tiles)
+[tiles](https://opengameart.org/content/2d-game-tiles)
 
-(https://opengameart.org/content/jumping-blob)
+[enemy](https://opengameart.org/content/jumping-blob)
 
-(https://github.com/chris4dim/godot-beginner-2d-platformer)
+[enemy2](https://github.com/chris4dim/godot-beginner-2d-platformer)
 
-(https://opengameart.org/content/coin-animation)
+[coins](https://opengameart.org/content/coin-animation)
 
-(https://opengameart.org/content/tx-bullet-0)
+[bullet](https://opengameart.org/content/tx-bullet-0)
 
-(https://opengameart.org/content/spikey-stuff)
+[spikes](https://opengameart.org/content/spikey-stuff)
 
-(https://opengameart.org/content/2-seamless-lava-tiles)
+[tiles](https://opengameart.org/content/2-seamless-lava-tiles)
 
-(https://opengameart.org/content/volcano-lava-floor)
+[tiles](https://opengameart.org/content/volcano-lava-floor)
 
-(https://opengameart.org/content/ground-tiles-2)
+[tiles](https://opengameart.org/content/ground-tiles-2)
 
-(https://pressstart.vip/assets)
+[backgrounds](https://pressstart.vip/assets)
 
 ### Tutorial:
 
-(https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ&index=1)
+[Tutorial](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ&index=1)
 
 
 
