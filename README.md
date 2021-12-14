@@ -14,4 +14,33 @@
 
 ![EPIPEDA](https://user-images.githubusercontent.com/44117722/146048359-2308b91c-7b2a-457f-a6bb-24d2379e5d9c.png)
 
+### LAST MENU
+
+![LASTMENU](https://user-images.githubusercontent.com/44117722/146049090-41c9f10f-65ce-4621-84ce-8679620b56fe.png)
+
+### ΠΗΓΕΣ
+
+### Χαρακτήρας:
+
+### https://2d-assets.itch.io/red-hat-boy-sprites
+
+### Assets:
+
+https://opengameart.org/content/platform-tiles-0
+https://opengameart.org/content/2d-game-tiles
+https://opengameart.org/content/jumping-blob
+https://github.com/chris4dim/godot-beginner-2d-platformer
+https://opengameart.org/content/coin-animation
+https://opengameart.org/content/tx-bullet-0
+https://opengameart.org/content/spikey-stuff
+https://opengameart.org/content/2-seamless-lava-tiles
+https://opengameart.org/content/volcano-lava-floor
+https://opengameart.org/content/ground-tiles-2
+https://pressstart.vip/assets
+
+### Tutorial:
+
+https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ&index=1
+
+
 
