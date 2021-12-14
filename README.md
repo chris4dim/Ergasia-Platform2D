@@ -27,15 +27,25 @@
 ### Assets:
 
 https://opengameart.org/content/platform-tiles-0
+
 https://opengameart.org/content/2d-game-tiles
+
 https://opengameart.org/content/jumping-blob
+
 https://github.com/chris4dim/godot-beginner-2d-platformer
+
 https://opengameart.org/content/coin-animation
+
 https://opengameart.org/content/tx-bullet-0
+
 https://opengameart.org/content/spikey-stuff
+
 https://opengameart.org/content/2-seamless-lava-tiles
+
 https://opengameart.org/content/volcano-lava-floor
+
 https://opengameart.org/content/ground-tiles-2
+
 https://pressstart.vip/assets
 
 ### Tutorial:
