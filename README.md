@@ -20,11 +20,11 @@
 
 ### ΠΗΓΕΣ
 
-### Χαρακτήρας:
+### Χαρακτήρας URL:
 
 [character](https://2d-assets.itch.io/red-hat-boy-sprites)
 
-### Assets:
+### Assets URLs:
 
 [tiles](https://opengameart.org/content/platform-tiles-0)
 
@@ -48,7 +48,7 @@
 
 [backgrounds](https://pressstart.vip/assets)
 
-### Tutorial:
+### Tutorial URL:
 
 [Tutorial](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ&index=1)
 
